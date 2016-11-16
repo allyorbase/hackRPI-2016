@@ -9,3 +9,7 @@ Has a cool LCD display!
 Most of the work was spent on deploying it on an Intel Edison board.
 
 16-Hour Hackathon project for HackRPI!
+
+Winner of HackRPI's "Best Hardware Hack" and "Watch Dogs® 2 Best Device Privacy Hack"
+
+Check it out on [Devpost!](https://devpost.com/software/root-jacker "Root Jacker")
